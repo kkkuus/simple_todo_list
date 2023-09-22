@@ -1,0 +1,40 @@
+body {
+    background-color: #ECF2F9;
+}
+
+.main-container {
+    position: fixed;
+    padding: 5px;
+    margin: 5px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: 50%;
+    background-color: #C8D9EB;
+    border-radius: 20px;;
+}
+
+h2 {
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;	
+	box-sizing: border-box;
+	padding: 0 20px;
+	margin: 0 0 15px 15px;
+	border: none;    
+	border-radius: 3px;
+	line-height: 20px;
+	background-color: #ECF2F9;
+	cursor: pointer;
+}
+
+.special-style {
+    list-style-type: none;
+}
+
+.field {
+    margin: 0 0 15px 15px;
+    border-radius: 3px;
+    border: none;
+}
